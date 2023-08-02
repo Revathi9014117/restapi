@@ -11,3 +11,4 @@
 /95342083/363f90ee-263e-4ba3-9c55-96fa2720bffe)
 ![models](https://github.com/Revathi9014117/restapi/asse![myservice](https://github.com/Revathi9014117/restapi/assets/95342083/e5554cae-e6f9-4d4d-a263-b583e84c2fee)
 ts/95342083/44391494-d6a1-439c-9850-b9b623e8f64d)
+![getbyid output](https://github.com/Revathi9014117/restapi/assets/95342083/7ff8612c-0c84-43e5-b31b-ea53318d22ee)
